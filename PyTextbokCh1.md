@@ -1,5 +1,5 @@
 # Think Python 2e 
-## Ch1 - The way of the Program Notes
+## Ch1 - The way of the Program
 
 9 Sections:
 1.1 What is a program?
@@ -16,4 +16,4 @@
 (See Anki)
 - Sequence of instructions that specifies how to perform a computation
 - Can be mathematical, symbolic, graphical, etc.
-- 
+
